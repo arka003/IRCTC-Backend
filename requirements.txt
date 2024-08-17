@@ -1,0 +1,5 @@
+1. Login & Signup
+2. fetch/search trains
+3. show avl seats
+4. book seats
+5. ticket fetch
