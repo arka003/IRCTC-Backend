@@ -3,3 +3,6 @@
 
 # Ignore Gradle build output directory
 build
+app/bin/main/.DS_Store
+app/bin/main/ticket/.DS_Store
+app/bin/main/ticket/booking/.DS_Store
